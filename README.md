@@ -1,4 +1,3 @@
-cat > README.md <<EOF
 # 0x1D. C - Binary Trees
 
 ## C   
